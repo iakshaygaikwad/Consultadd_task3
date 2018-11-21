@@ -1,5 +1,5 @@
 This recording is between a client and employee. The client is trying to explain the requirements
-of his project. He want to rewrite the project he is using currently with some new features.
+of his project. He want to rewrite the project he is using currently and add some new features.
 
 -Client need combined excel with formatting using python script. 
 -Rewrite the data transformation process and generalize it.
