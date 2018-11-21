@@ -1,0 +1,36 @@
+This recording is between a client and employee. The client is trying to explain the requirements
+of his project. He want to rewrite the project he is using currently with some new features.
+
+-Client need combined excel with formatting using python script. 
+-Rewrite the data transformation process and generalize it.
+-Examine codebase in palm folder and ask questions about it when they meet for face to face convo.
+-For each table need delete method based on primary_id without affecting the referential integrity
+-Clean up the code and optimize it.
+-Extract the data and transform it into data frames, dimensions and facts.
+-Client need employee need to come with some questions and improvement based on the requirement
+	-optimise code
+-Client don't want to change output rather he want to code to be more generic, uniform and increase reusability
+-new db name : NewPalmTest
+
+-Same syntax can only change syntax that required to extract data.
+
+-method where user give campaign id and get info about campaign if no event create one.
+-Unit test need to be done automatically
+-client giving all code for changing and will give back to him for review after change by employee 
+-employee getting error in query he was running on client db, its an error in variable parameters
+
+-client coming to meet monday if there is no snowfall.
+-employee asked about timeing to client and he told to report to Miss Brandy and Miss Kelly
+-later they discuss about some issues in the office and whom and why employee need to report
+
+
+
+main points:
+-generalizing code
+-making it more optimize
+-maintain referential integrity
+-increase reusability
+-add features
+	-combined excel with formatting using python script
+	-data transformation
+	-automate Unit test 
